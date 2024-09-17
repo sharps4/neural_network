@@ -26,7 +26,7 @@ pip install scikit-learn
 
 ## Usage
 ```
-Launch the train.py using : python train.py in the terminal.
+Launch the train.py using : python train.py
 ```
 ## License
 
