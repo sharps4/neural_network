@@ -131,11 +131,11 @@ class neuralNetwork:
 
     def train(self, X, Y, learning_rate=0.01, epochs=1000):
         for i in range(epochs):
-            #forward propagation
+            # forward propagation
             A_hidden, Z_hidden = self.linear_activation_forward(X, self.weight_input_hidden, self.bias_hidden, activation_type="relu")
             A_last, Z_last = self.linear_activation_forward(A_hidden, self.weight_hidden_output, self.bias_output, activation_type="sigmoid")
 
-            #store intermediate values
+            # store intermediate values
             cache = {
                 'A_hidden': A_hidden,
                 'Z_hidden': Z_hidden,
@@ -143,10 +143,10 @@ class neuralNetwork:
                 'Z_last': Z_last
             }
 
-            #cost
+            # cost
             cost = self.cost(Y, A_last)
 
-            #backpropagation
+            # backpropagation
             self.backpropagation(X, Y, cache, learning_rate)
 
             if i % 100 == 0:
