@@ -12,8 +12,8 @@ This project is the creation of a neural network only with python and mathematic
 
 Instructions on how to install and set up the project.
 
-[!IMPORTANT]
-This code may need modifications to work with specific training dataset like images or text.
+> [!IMPORTANT]
+> This code may need modifications to work with specific training dataset like images or text.
 
 ```bash
 # Clone the repository
