@@ -16,13 +16,14 @@ Instructions on how to install and set up the project.
 # Clone the repository
 git clone https://github.com/sharps4/neural_network
 
-# Only install numpy
+# Dependencies
 pip install numpy
+pip install scikit-learn
 ```
 
 ## Usage
 ```
-...
+Launch the train.py using : pyhton *train.py* in the terminal.
 ```
 ## License
 
