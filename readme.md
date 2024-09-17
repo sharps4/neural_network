@@ -2,7 +2,7 @@
 
 This project is the creation of a neural network only with python and mathematics and without the use of frameworks.
 
-> [!IMPORTANT]
+> [!TIP]
 > The code may need modifications to work with specific training dataset like images or text.
 
 
