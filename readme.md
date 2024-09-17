@@ -23,8 +23,8 @@ pip install scikit-learn
 
 ## Usage
 ```
-Launch the train.py using : pyhton train.py in the terminal.
+Launch the train.py using : python train.py in the terminal.
 ```
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
