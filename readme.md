@@ -23,7 +23,7 @@ pip install scikit-learn
 
 ## Usage
 ```
-Launch the train.py using : pyhton *train.py* in the terminal.
+Launch the train.py using : pyhton train.py in the terminal.
 ```
 ## License
 
