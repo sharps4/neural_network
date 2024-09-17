@@ -12,6 +12,9 @@ This project is the creation of a neural network only with python and mathematic
 
 Instructions on how to install and set up the project.
 
+[!IMPORTANT]
+This code may need modifications to work with specific training dataset like images or text.
+
 ```bash
 # Clone the repository
 git clone https://github.com/sharps4/neural_network
@@ -24,10 +27,6 @@ pip install scikit-learn
 ## Usage
 ```
 Launch the train.py using : python train.py in the terminal.
-
-[!IMPORTANT]
-This code may need modifications to work with specific training dataset like images or text.
-
 ```
 ## License
 
