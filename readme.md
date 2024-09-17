@@ -24,6 +24,10 @@ pip install scikit-learn
 ## Usage
 ```
 Launch the train.py using : python train.py in the terminal.
+
+[!IMPORTANT]
+This code may need modifications to work with specific training dataset like images or text.
+
 ```
 ## License
 
