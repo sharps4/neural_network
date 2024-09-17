@@ -21,10 +21,8 @@ pip install numpy
 ```
 
 ## Usage
-...
-
 ```
-
+...
 ```
 ## License
 
