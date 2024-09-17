@@ -2,6 +2,10 @@
 
 This project is the creation of a neural network only with python and mathematics and without the use of frameworks.
 
+> [!IMPORTANT]
+> The code may need modifications to work with specific training dataset like images or text.
+
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -11,10 +15,6 @@ This project is the creation of a neural network only with python and mathematic
 ## Installation
 
 Instructions on how to install and set up the project.
-
-> [!IMPORTANT]
-> This code may need modifications to work with specific training dataset like images or text.
-
 ```bash
 # Clone the repository
 git clone https://github.com/sharps4/neural_network
