@@ -1,4 +1,4 @@
-from script import neuralNetwork
+from neural_network import neuralNetwork
 from sklearn.datasets import make_classification
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler

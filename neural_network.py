@@ -25,7 +25,7 @@ class neuralNetwork:
 
     '''
     linear forward function
-    A = outpot of previous layer
+    A = output of previous layer
     W = weights
     b = bias
     Z = linear output
