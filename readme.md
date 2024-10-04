@@ -16,7 +16,7 @@
     <br />
     <br />
 
-[![License](https://img.shields.io/crates/l/crate-template?label=%20&style=for-the-badge)](https://github.com/sharps4/neural_network/LICENSE)
+[![License](https://img.shields.io/github/license/sharps4/neural_network)](https://github.com/sharps4/neural_network/LICENSE)
 
   </sup>
   <br />
