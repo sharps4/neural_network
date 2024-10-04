@@ -1,27 +1,4 @@
-<div align="center">
-  <h1>
-    <br/>
-    <br/>
-    🤖
-    <br />
-    neural_network
-    <br />
-    <br />
-    <br />
-    <br />
-  </h1>
-  <sup>
-    <br />
-    Hand maid neural network</em>
-    <br />
-    <br />
-
 [![License](https://img.shields.io/github/license/sharps4/neural_network)](https://github.com/sharps4/neural_network/LICENSE)
-
-  </sup>
-  <br />
-  <br />
-</div>
 
 # Hand maid neural network project
 
