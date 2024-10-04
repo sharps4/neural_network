@@ -1,3 +1,22 @@
+<div align="center">
+  <h1>
+    <br/>
+    <br/>
+    🤖
+    <br />
+    Hand maid neural network project
+    <br />
+    <br />
+    <br />
+    <br />
+  </h1>
+  <sup>
+    <br />
+    Hand maid neural network project</em>
+    <br />
+    <br />
+
+
 # Hand maid neural network project
 
 This project is the creation of a neural network only with python and mathematics and without the use of frameworks.
