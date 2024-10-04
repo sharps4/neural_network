@@ -4,7 +4,7 @@
     <br/>
     🤖
     <br />
-    Hand maid neural network project
+    neural_network
     <br />
     <br />
     <br />
@@ -15,7 +15,10 @@
     Hand maid neural network project</em>
     <br />
     <br />
-
+  </sup>
+  <br />
+  <br />
+</div>
 
 # Hand maid neural network project
 
